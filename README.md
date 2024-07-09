@@ -6,4 +6,4 @@ Tools Used:
 
 Power BI, Power Query, DAX, PowerPoint
 
-Dashboard Requirements are in the Dataset document
+Dashboard Requirements are in the Dataset document.
